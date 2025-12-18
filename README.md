@@ -1,2 +1,2 @@
-# T0rAuto
-Routes your connection through a socks5 proxy and rotates it for with custom intervals
+# Tor
+Routes your connection through a socks5 proxies and rotates it with custom intervals
